@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+.DS_Store
+*.DS_Store
+._*
 
 # Precompiled Headers
 *.gch
